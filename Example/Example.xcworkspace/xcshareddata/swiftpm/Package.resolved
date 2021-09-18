@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CallStackSymbols",
+        "repositoryURL": "https://github.com/naru-jpn/CallStackSymbols",
+        "state": {
+          "branch": null,
+          "revision": "779289fcdd73b1da49f94bd8cc3d86a5f0dbdb9a",
+          "version": "1.0.2"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
