@@ -48,10 +48,6 @@ let aggregated: [(count: Int, callStack: String)] = result.aggregate()
 - Drag & Drop appDsyms directory and csv file describing crash call stack.
 - Sample csv file and appDsyms is in `Assets` at Releases of this repository.
 
-## See Also
-
-- [naru-jpn/CallStackSymbol](https://github.com/naru-jpn/CallStackSymbols)
-
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
