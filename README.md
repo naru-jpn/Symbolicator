@@ -1,5 +1,6 @@
-<p align='center'><b>Symbolicator</b></p>
-<p align='center'>Convert numeric addresses to symbols with callStackSymbols and dSYM files.</p>
+# Symbolicator
+
+Convert numeric addresses to symbols with callStackSymbols and dSYM files.
 
 ## Installation
 
