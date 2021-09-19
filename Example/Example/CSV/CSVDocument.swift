@@ -9,6 +9,7 @@ import Foundation
 import SwiftUI
 import UniformTypeIdentifiers
 
+/// CSV document to share.
 struct CSVDocument: FileDocument {
     static var readableContentTypes: [UTType] {
         [.commaSeparatedText]

@@ -13,7 +13,9 @@ enum CSVParserError: Error {
     case failedToParseCSV
 }
 
+/// Parse CSV to create record.
 class CSVParser {
+    /// Parse CSV contents and create record representing call stack.
     func parse(input: String) throws -> CSV {
         func parse(input: String, parser: DLADDRParser) throws -> Record<DLADDR> {
             let components: [String] = input.components(separatedBy: ",")
