@@ -46,4 +46,4 @@ let aggregated: [(count: Int, callStack: String)] = result.aggregate()
 </kbd>
 
 - Drag & Drop appDsyms directory and csv file describing crash call stack.
-- Sample appDsyms and csv file is `Assets` in Releases of this repository.
+- Sample csv file and appDsyms is in `Assets` at Releases of this repository.
